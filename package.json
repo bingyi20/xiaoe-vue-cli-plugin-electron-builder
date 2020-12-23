@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-electron-builder",
+  "name": "xiaoe-vue-cli-plugin-electron-builder",
   "version": "2.0.0-rc.5",
   "description": "Easily Build Your Vue.js App For Desktop With Electron",
   "main": "index.js",
@@ -30,7 +30,7 @@
   "dependencies": {
     "@vue/cli-shared-utils": "^4.5.6",
     "chokidar": "^3.0.2",
-    "electron-builder": "^22.2.0",
+    "electron-builder": "^22.9.1",
     "execa": "^5.0.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "fs-extra": "^9.0.1",
